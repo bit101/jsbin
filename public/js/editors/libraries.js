@@ -818,6 +818,10 @@ var libraries = [
     'url': '//cdn.jsdelivr.net/velocity/1.2.3/velocity.ui.min.js',
     'label': 'Velocity UI Pack 1.2.3',
     'group': 'Velocity'
+  },
+  {
+    'url': 'https://cdn.jsdelivr.net/quicksettings/2.2.1/quicksettings.min.js',
+    'label': 'QuickSettings JS 2.2.1'
   }
 ];
 
